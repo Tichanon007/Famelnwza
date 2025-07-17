@@ -1,0 +1,23 @@
+[
+    {
+    "name": "Tichanon Champa",
+    "title": "Student in Digital Science and Technology (Special Program)",
+    "phone": "+66 98 246 1795",
+    "email": "Tichanon@example.com",
+    "image": "https://raw.githubusercontent.com/Tichanon007/Famelnwza/refs/heads/main/Fameim.png"
+  },
+  {
+    "name": "Pongpisut Kongtian",
+    "title": "Student in Digital Science and Technology (Special Program)",
+    "phone": "+66 91 503 2478",
+    "email": "pongpisut@example.com",
+    "image": "https://raw.githubusercontent.com/Tichanon007/Famelnwza/refs/heads/main/Beamim.png"
+  },
+  {
+    "name": "Chanathip Jangset",
+    "title": "Student in Digital Science and Technology (Special Program)",
+    "phone": "+66 95 764 8321",
+    "email": "chanathip@example.com",
+    "image": "https://raw.githubusercontent.com/Tichanon007/Famelnwza/refs/heads/main/Dewim.png"
+  }
+]
